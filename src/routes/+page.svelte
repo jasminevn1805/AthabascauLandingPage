@@ -35,10 +35,10 @@
       </div>
 			
 			<nav class="hidden md:flex space-x-6">
-				<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Courses</a>
-				<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Programs</a>
-				<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">About</a>
-				<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Contact</a>
+				<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Courses</a>
+				<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Programs</a>
+				<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">About</a>
+				<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Contact</a>
 			</nav>
 			
 			<!-- Mobile menu button -->
@@ -54,10 +54,10 @@
 		{#if mobileMenuOpen}
 			<nav class="md:hidden mt-4 pb-4 border-t border-gray-200">
 				<div class="flex flex-col space-y-3 pt-4">
-					<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Courses</a>
-					<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Programs</a>
-					<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">About</a>
-					<a href="#" class="text-gray-600 hover:text-gray-900 transition-colors">Contact</a>
+					<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Courses</a>
+					<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Programs</a>
+					<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">About</a>
+					<a href="/" class="text-gray-600 hover:text-gray-900 transition-colors">Contact</a>
 				</div>
 			</nav>
 		{/if}
@@ -270,10 +270,10 @@
 			<div>
 				<h3 class="font-semibold mb-4">Quick Links</h3>
 				<ul class="space-y-2 text-sm">
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">About AU</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Academic Calendar</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Student Support</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Library</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">About AU</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Academic Calendar</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Student Support</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Library</a></li>
 				</ul>
 			</div>
 			
@@ -281,10 +281,10 @@
 			<div>
 				<h3 class="font-semibold mb-4">Programs</h3>
 				<ul class="space-y-2 text-sm">
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Undergraduate</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Graduate</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Professional</a></li>
-					<li><a href="#" class="text-gray-400 hover:text-white transition-colors">Continuing Education</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Undergraduate</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Graduate</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Professional</a></li>
+					<li><a href="/" class="text-gray-400 hover:text-white transition-colors">Continuing Education</a></li>
 				</ul>
 			</div>
 			
@@ -308,9 +308,9 @@
 				© 2024 Athabasca University. All rights reserved.
 			</p>
 			<div class="flex space-x-6 mt-4 md:mt-0">
-				<a href="#" class="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</a>
-				<a href="#" class="text-gray-400 hover:text-white text-sm transition-colors">Terms of Service</a>
-				<a href="#" class="text-gray-400 hover:text-white text-sm transition-colors">Accessibility</a>
+				<a href="/" class="text-gray-400 hover:text-white text-sm transition-colors">Privacy Policy</a>
+				<a href="/" class="text-gray-400 hover:text-white text-sm transition-colors">Terms of Service</a>
+				<a href="/" class="text-gray-400 hover:text-white text-sm transition-colors">Accessibility</a>
 			</div>
 		</div>
 	</div>
