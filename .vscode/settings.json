@@ -1,0 +1,11 @@
+{
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "tailwindCSS.includeLanguages": {
+    "svelte": "html"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["class:([^=]+)=", "\"([^\"]*))\""]
+  ]
+}
